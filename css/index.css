@@ -1,0 +1,22 @@
+.container {
+    padding: 0;
+}
+
+.card-text {
+    font-size: 18px;
+}
+
+.card-deck {
+    margin-top: 15px;
+    flex-wrap: wrap;
+}
+
+.card-deck .card {
+    flex: 0 0 262.5px;
+    margin-bottom: 20px;
+}
+
+.card-deck .card .card-body {
+    height: 230px;
+    overflow: hidden;
+}
